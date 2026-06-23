@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Update all URLs to your production domain before deploying -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://lung.calculatesupply.com/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lung.calculatesupply.com/img/breath.png</image:loc>
+      <image:title>BreathEaseX Respiratory Supplement</image:title>
+      <image:caption>BreathEaseX lung health supplement bottle</image:caption>
+    </image:image>
+  </url>
+</urlset>

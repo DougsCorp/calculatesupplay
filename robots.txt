@@ -1,0 +1,9 @@
+# https://lung.calculatesupply.com/robots.txt
+# Update Sitemap URL to your production domain before deploying
+
+User-agent: *
+Allow: /
+
+# Block nothing — single-page site, all content indexable
+
+Sitemap: https://lung.calculatesupply.com/sitemap.xml
